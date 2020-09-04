@@ -2,7 +2,7 @@
 
 I'm Sergio Ruy, I'm a Software Engineer and I really like a new challenger. I'm from Brazil, and I'm currently living in Dubai UAE.
 
-I love study, build new projects with a dedicate team and solve problems.  
+I love study, build new projects, and work with dedicate team to solve problems.  
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/sergio_ruy?style=social)](https://twitter.com/sergio_ruy)
 [![Linkedin: sergioruy](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergioruy/)](https://www.linkedin.com/in/sergioruy/)
@@ -21,7 +21,6 @@ These are some of the technologies and tools that I work with:
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
@@ -31,5 +30,6 @@ These are some of the technologies and tools that I work with:
 
 <!--
 **SergioRuyDev/SergioRuyDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 
