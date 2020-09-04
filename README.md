@@ -4,7 +4,7 @@ I'm Sergio Ruy, I'm a Software Engineer and I really like a new challenger. I'm 
 
 I love study, build new projects with a dedicate team and solve problems.  
 
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fsergio_ruy)](https://twitter.com/sergio_ruy)
+[![Twitter Follow](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fsergio_ruy)](https://twitter.com/sergio_ruy)
 [![Linkedin: sergioruy](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergioruy/)](https://www.linkedin.com/in/sergioruy/)
 
 ## ⚡ Technologies
