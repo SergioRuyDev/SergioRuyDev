@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Sergio Ruy, I'm a Software Engineer and I really like a new challenger. I'm from Brazil, and I'm currently living in Dubai UAE.
+I'm Sergio Ruy, I'm a Back End Developer and I really like a new challenger. I'm from Brazil, and I'm currently living in Dubai UAE.
 
 I love study, build new projects, and work with dedicate team to solve problems.  
 
