@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello folks 🤙
 
 I'm Sergio Ruy, I'm a Back End Developer and I really like a new challenger. I'm from Brazil, and an of my favorite quote is "A black belt is a white belt who never gave up."
 
