@@ -7,6 +7,13 @@ I love study, build new projects, and work with dedicate team to solve problems.
 [![Twitter Follow](https://img.shields.io/twitter/follow/sergio_ruy?style=social)](https://twitter.com/sergio_ruy)
 [![Linkedin: sergioruy](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergioruy/)](https://www.linkedin.com/in/sergioruy/)
 
+## ⚡ GitHub Stats
+<div>
+  <a href="[https://github.com/](https://github.com/sergioruydev)">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergioruydev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergioruydev&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
 ## ⚡ Technologies
 
 These are some of the technologies and tools that I work with:
