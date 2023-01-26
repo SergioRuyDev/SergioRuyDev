@@ -4,7 +4,7 @@ I'm Sergio Ruy, I'm a Backend Developer and I really like a new challenger. I'm 
 
 I love study, build new projects, and work with dedicate team to solve problems.  
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/sergio_ruy?style=social)](https://twitter.com/sergio_ruy)
+[![Twitter Follow](https://img.shields.io/badge/follow-%40sergio_ruy-1DA1F2?logo=twitter&style=social)](https://twitter.com/sergio_ruy)
 [![Linkedin: sergioruy](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergioruy/)](https://www.linkedin.com/in/sergioruy/)
 
 <!-- <div>
