@@ -9,7 +9,8 @@ I love study, build new projects, and work with dedicate team to solve problems.
 
 <!-- <div>
   <a href="[https://github.com/](https://github.com/sergioruydev)">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergioruydev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergioruydev&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergioruydev&layout=compact&langs_count=7&theme=radical"/>
 </div> -->
 
 ## ⚡ Technologies
