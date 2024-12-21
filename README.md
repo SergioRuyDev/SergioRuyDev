@@ -18,7 +18,7 @@ I love study, build new projects, and work with dedicate team to solve problems.
 These are some of the technologies and tools that I work with:
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Quarkus](https://img.shields.io/badge/quarkus-%234794EB.svg?style=flat-square&logo=quarkus&logoColor=white)
+![Quarkus](https://img.shields.io/badge/Quarkus-%234794EB.svg?style=flat-square&logo=quarkus&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
